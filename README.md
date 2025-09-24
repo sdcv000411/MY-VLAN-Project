@@ -15,7 +15,7 @@ PC3 → VLAN 30
 
 멀티레이어(3650-24PS) → Switch 1,2,3 담당
 
-⚙️ VLAN 및 IP 구성
+<VLAN 및 IP 구성>
 VLAN 정보
 VLAN 번호	이름	할당 장비
 VLAN 10	Sales	PC1
